@@ -30,6 +30,10 @@ const CONFIG = {
                     'ameen-sid/CodeHell_Frontend',
                     'ameen-sid/Admission_Management_System',
                     'ameen-sid/web-clone-one',
+                    'ameen-sid/React_Projects',
+                    'ameen-sid/Express_Backend_Projects',
+                    'ameen-sid/CodeHell_Backend',
+                    'ameen-sid/Team-Eagles-Website',
                 ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
             },
         },
